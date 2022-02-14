@@ -1,0 +1,14 @@
+E:\D\ВАНЯ ЕГО Док\Программирование\Breakout\Breakout\bin\Debug\Breakout.exe.config
+E:\D\ВАНЯ ЕГО Док\Программирование\Breakout\Breakout\bin\Debug\Breakout.exe
+E:\D\ВАНЯ ЕГО Док\Программирование\Breakout\Breakout\bin\Debug\Breakout.pdb
+E:\D\ВАНЯ ЕГО Док\Программирование\Breakout\Breakout\obj\Debug\Breakout.csprojAssemblyReference.cache
+E:\D\ВАНЯ ЕГО Док\Программирование\Breakout\Breakout\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+E:\D\ВАНЯ ЕГО Док\Программирование\Breakout\Breakout\obj\Debug\Breakout.exe
+E:\D\ВАНЯ ЕГО Док\Программирование\Breakout\Breakout\obj\Debug\Breakout.pdb
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Breakout\Breakout\bin\Debug\Breakout.exe.config
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Breakout\Breakout\bin\Debug\Breakout.exe
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Breakout\Breakout\bin\Debug\Breakout.pdb
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Breakout\Breakout\obj\Debug\Breakout.csprojAssemblyReference.cache
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Breakout\Breakout\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Breakout\Breakout\obj\Debug\Breakout.exe
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Breakout\Breakout\obj\Debug\Breakout.pdb
