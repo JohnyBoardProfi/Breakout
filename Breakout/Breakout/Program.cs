@@ -130,12 +130,12 @@ namespace Breakout
                 for (int j = 0; j < bricks.GetLength(1); j++)
                 {
                     bricks[i, j] = true;
-                    PrintAtPosition((i * 5), addHeightToBricks(j), '-');
+                    PrintAtPosition((i * 5), addHeightToBricks(j), '■');
                     for (int k = 1; k < 4; k++)
                     {
-                        PrintAtPosition((i * 5) + k, addHeightToBricks(j), '_');
+                        PrintAtPosition((i * 5) + k, addHeightToBricks(j), '■');
                     }
-                    PrintAtPosition((i * 5) + 4, addHeightToBricks(j), '-');
+                    PrintAtPosition((i * 5) + 4, addHeightToBricks(j), '■');
                 }
             }
         }
